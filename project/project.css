@@ -1,0 +1,479 @@
+ .img{
+    width: 80px;
+    margin-left: 20px;
+    
+   
+}
+.logo,
+.leftlogo2
+{
+    display: inline-block;
+}
+   
+  
+
+.talent,
+.work,
+.whywork,
+.interprice
+{
+ display: inline-block;
+ margin-left: 20px;
+ margin-top: 20;
+ font-size: 14;
+ 
+
+}
+a
+ {
+  text-decoration: none;
+  color: black;
+}
+.rightlogo
+{
+ margin-left: 50;
+}
+a:hover
+{
+    color: #14a800;
+}
+.one,
+.two,
+.three
+{
+display: inline-block;
+
+}
+.sign,
+.login
+{
+    display: inline-block;
+    
+}
+.sign
+{
+  border-radius: 50px;
+  border: hidden;
+  padding-left: 28;
+  padding-bottom: 8;
+  padding-top: 8;
+ padding-right: 28;
+  background-color: #14a800;
+  margin-left: 30;
+}
+.sign:hover{background-color :#0f7d00;}
+.sign a{
+    color: #eaefea;
+    font-size: 14;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.rightlogo,
+.rightlogo2
+{
+    display: inline-block;
+    
+}
+.leftlogo,
+.right
+{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right
+{
+    margin-left: 500;
+}
+.develope,
+.design, 
+.sales,
+.writing,
+.admin,
+.more
+{
+    
+    display: inline-block;
+    margin-left: 20;
+    margin-top: 5px;
+    font-size:16;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  
+}
+.part1,
+.image
+{
+   display: inline-block ;
+   margin-left: 200;
+   margin-right: 60;
+  
+  
+   
+   
+}
+.line1-1
+{
+   font-size: 36px;
+    color:  #14a800;
+   
+    
+   
+}
+.line1-2
+{
+    color: #5e6d55;
+    font-size: 24px;
+    
+}
+.image
+{
+    width: 460px;
+   margin-left: 50;
+   
+    
+}
+.brands
+{
+    width: 150px;
+    display: inline;
+   
+   
+}
+.start
+{
+  border-radius: 50px;
+  border: hidden;
+  padding-left: 25;
+  padding-bottom: 10;
+  padding-top: 10;
+ padding-right: 25;
+  background-color: #14a800;
+}
+
+/* .fixed
+{
+    position:sticky;
+} */
+.start a{
+    color: #eaefea;
+    font-size: 14;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.trust
+{
+    font-size: 18px;
+    color: #9aaa97;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    
+}
+.part2
+{
+    font-size: 20;
+}
+.line2-2
+{
+    font-size: 17px;
+    color: #9aaa97;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";;
+     
+}
+.line2-3
+{
+    color: rgb(64, 43, 183);
+
+}
+.line2-3:hover
+{
+    color:#020e01 ;
+ }
+.table1,
+.tr1,
+.td1
+{
+    
+    border:hidden;
+    border-collapse: separate;
+    border-spacing: 30;
+    font-size: 23;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    margin-left: 160;
+    margin-right: 150;
+
+}
+.part2,
+.line2-2
+{
+    margin-left: 200;
+    margin-right: 60;
+}
+.td1
+{
+ background-color: #eaefea;
+ padding: 40;
+ border-radius: 10px;
+}
+.form3 
+{
+    border-radius: 10px;
+    background-color: #a18085;
+    margin: auto;
+    width: 75%;
+    color: #eceaef;
+    
+}
+
+.clear
+{
+    clear: both;
+}
+.form3 thirdform
+{
+    color: white;
+}
+ 
+.thirdform,
+.thirdform2
+{
+    
+float: left;
+width: 50%;
+
+  
+}
+.enterprice,
+.scale,
+.fast,
+.access,
+.learn 
+{
+    margin-left: 25;
+  
+   
+}
+.thirdform2 img
+{   
+border-radius:  10px;
+}
+.enterprice
+{
+    font-size: 24px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+   
+}
+.scale
+{
+  
+  font-family:" Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 60;
+}
+.fast{
+    font-size: 18;
+    margin-top: 25;
+    margin-bottom: 130;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.access
+{
+    font-size: 18;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10;
+}
+.learn 
+{
+    border-radius: 50px;
+    border: hidden;
+    padding-left: 25;
+    padding-bottom: 10;
+    padding-top: 10;
+   padding-right: 25;
+    background-color:white;
+    color: #020e01;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  .form4 
+{
+    
+    
+    margin: auto;
+    width: 80%;
+    padding-top: 100;
+    position: relative;
+   
+}
+
+.form6,
+.form5
+
+{
+  
+float: left;
+
+border-radius: 10px;
+background-color: #eaefea;
+border-collapse: separate;
+border-spacing: 60;
+font-family:" Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.form6
+{
+  width: 30%;  
+  margin-left: 57;
+  height: 80%;
+  z-index: 2;
+  position: relative;
+} 
+.form5
+{
+width:60% ;
+margin-left: 27;
+height: 80%;
+z-index: 1;
+position: relative;
+
+
+}
+.business
+{
+    font-family:" Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 25;
+    margin-left: 25;
+    margin-top: 50;
+}
+.head h2
+{
+    margin-left: 25;
+    font-size: 25;
+}
+.head p
+{
+    opacity: 15px;
+    font-size:15 ;
+}
+.head{
+    margin-left: 30;
+    margin-bottom: 50;
+    
+}
+.form7 img
+{
+  position: absolute;
+z-index: 5;
+margin-left:80 ;
+height: 95%;
+top: 25px;
+left: 40%; 
+box-sizing: border-box;
+}
+.form9
+{
+
+margin: auto;
+width: 75%;
+padding-top: 100;
+height: 60%;
+
+}
+.form10,
+.form11
+{
+    float: left;
+
+    border-radius: 10px;
+    background-color: #eaefea;
+    border-collapse: separate;
+    border-spacing: 50%;
+    font-family:" Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+   height: 100%;
+   margin-top: 20;
+}
+
+.form10
+{
+  width: 45%;  
+  margin-right: 5%;
+  height: 100%;
+ background-color: #13544e;
+  
+} 
+.form10 img
+{
+    width: 40%;
+    margin-left: 20;
+    margin-top: 20;
+}
+.form11 img{
+    width: 220;
+    margin-right: 20;
+    margin-top: 0;
+    
+    
+
+}
+.form10 p
+{
+    font-size: 25;
+}
+
+.form11
+{
+width:45% ;
+margin-right: 5%;
+height: 100%;
+background-color: #bc5118;
+}
+.form11 p
+{
+    font-size: 25;
+}
+.form10b
+{
+    float: left;
+}
+.footer
+{
+    background-color:#174843;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 20;
+   
+   
+}
+.footer1,
+.footer2,
+.footer3,
+.footer4
+{
+    float: left;
+    width: 20%;
+}
+.footer1 a
+{
+    display: block;
+    justify-content: left;
+}
+
+.footer2 a
+{
+    display: block;
+}
+.footer3 a
+{
+    display: block;
+}
+.footer4 a
+{
+    display: block;
+}
+
+.last a
+{
+    display: inline;
+    margin-left: 60;
+   
+}
+.last,
+.last1
+{
+    display: inline-block;
+}
+
